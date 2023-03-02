@@ -1,0 +1,44 @@
+@page "/dettaglio/{ID:int}"
+@inject HttpClient http;
+
+<h2 class="d-inline">Dettaglio opera [@op?.IDOpera]</h2>
+<img class="w-25 float-end me-3" src=@ImagePath/>
+<hr>
+<section class="d-flex justify-content-center">
+    <table class="table w-75">
+        <tbody>
+            <tr>
+                <td class="fw-bold">ID Opera: </td><td>@op?.IDOpera</td>
+            </tr>
+            <tr>
+                <td class="fw-bold">Descrizione: </td><td>@op?.Descrizione</td>
+            </tr>
+            <tr>
+                <td class="fw-bold">Anno: </td><td>@op?.Anno</td>
+            </tr>
+            <tr>
+                <td class="fw-bold">ID Materiale: </td><td>@op?.IDMateriale</td>
+            </tr>
+            <tr>
+                <td class="fw-bold">ID Collezione: </td><td>@op?.IDCollezione</td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+@code {
+
+    [Parameter]
+    public int ID { get; set; }
+
+    private string? ImagePath { get; set; }
+    private Opera? op;
+    protected override async Task OnInitializedAsync()
+    {
+        Opera[]? tmp = await http.GetFromJsonAsync<Opera[]?>("/api/opere/" + ID);
+
+        op = tmp[0];
+
+        ImagePath = "Immagini/opera_" + new string('0', 3 - $"{op.IDOpera}".Length) + op.IDOpera + ".webp";
+    }
+}

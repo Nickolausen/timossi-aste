@@ -1,0 +1,12 @@
+footer[b-qmjq1kr6jl] {
+    --credits-color: gainsboro;
+    margin-top: auto;
+    background-color: #AE1316; 
+}
+
+a[b-qmjq1kr6jl], p[b-qmjq1kr6jl], span[b-qmjq1kr6jl] {
+    text-decoration: none;
+    color: gainsboro;
+}
+
+footer a:hover[b-qmjq1kr6jl] { color: #EDEBE6 !important; text-decoration: none; }

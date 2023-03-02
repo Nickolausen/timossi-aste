@@ -1,0 +1,36 @@
+.wrapper[b-2z81hncdeo] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-inner[b-2z81hncdeo] {
+    max-height: 75vh;
+}
+
+.heading[b-2z81hncdeo] {
+    position: absolute;
+    text-align: center;
+    color: var(--txt-color);
+    z-index: 10;
+}
+
+.heading > h1[b-2z81hncdeo] {
+    font-size: 4rem;
+}
+
+.heading > h4[b-2z81hncdeo] {
+    font-size: 1.5rem;
+}
+
+.carousel-item[b-2z81hncdeo] {
+    max-height: inherit;
+}
+
+div.position-absolute[b-2z81hncdeo] {
+    z-index: 100 !important;
+}
+
+img[b-2z81hncdeo] {
+    filter: brightness(40%);
+}

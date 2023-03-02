@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = blazor_aste
+build_property.RootNamespace = blazor_aste
+build_property.ProjectDir = C:\Users\nicholas.magi\Downloads\TIMOSSI\blazor_aste\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nicholas.magi\Downloads\TIMOSSI\blazor_aste
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/Catalogo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/ChiSiamo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hpU2lhbW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/Contatti.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGF0dGkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/Dettaglio.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0dGFnbGlvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/CustomLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbUxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-7xw55fa7xj
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/CustomNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEN1c3RvbU5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ea14kcq6zf
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qmjq1kr6jl
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/Hero.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlcm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2z81hncdeo
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-euil68nmj8
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-lv662qqyg4
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicholas.magi/Downloads/TIMOSSI/blazor_aste/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

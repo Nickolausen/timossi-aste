@@ -1,0 +1,14 @@
+nav { flex-shrink: 0 !important; background-color: #AE1316; }
+.navbar .navbar-nav .nav-link { color: #fff; }
+.navbar .navbar-nav .nav-link:hover { color: #EDEBE6; }
+.navbar .navbar-nav .active > .nav-link { color: #EDEBE6; }
+
+
+.btn, .btn:focus {
+    background-color: #7f090b;
+    border: 0 !important;
+}
+
+.btn:focus-visible, .btn:focus {
+    box-shadow: 0 0 0 0.25rem #893838;
+}

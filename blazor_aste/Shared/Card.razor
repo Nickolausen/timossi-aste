@@ -1,0 +1,37 @@
+<div class="card" style="width: 18rem;">
+    <img src=@ImgPath class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Titolo</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@Luogo - @Anno</h6>
+        <p class="mt-4 card-text text-truncate">@Descrizione</p>
+        <a href="dettaglio/@ID">Leggi di più</a>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public int ID { get; set; }
+
+    [Parameter]
+    public string Titolo { get; set; }
+
+    [Parameter]
+    public string Descrizione { get; set; }
+
+    [Parameter]
+    public string Luogo { get; set; }
+
+    [Parameter]
+    public int Anno { get; set; }
+
+    private string ImgPath {
+        get => "Immagini/opera_" + new string('0', 3 - $"{ID}".Length) + ID + ".webp";
+        set { }
+    }
+
+    protected override Task OnInitializedAsync()
+    {
+        return base.OnInitializedAsync();
+    }
+}
+

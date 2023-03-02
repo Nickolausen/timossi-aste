@@ -1,0 +1,63 @@
+﻿@page "/galleria"
+@inject HttpClient http;
+
+<PageTitle>Catalogo</PageTitle>
+
+<section class="p-3 pt-5">
+    <h1 class="fw-bold text-center text-uppercase display-1">Galleria</h1>
+
+    <div class="container-fluid">
+        <div class="row">
+            @if(ElencoOpere is not null) 
+            {
+                @foreach (Opera op in ElencoOpere)
+                {
+                    <div class="col-12 col-lg-4 col-xl-2 mt-4">
+                        <Card
+                            ID=@op.IDOpera
+                            Descrizione=@op.Descrizione
+                            Anno=@op.Anno></Card>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+    
+    <h2 class="mt-4">Elenco opere disponibili</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr class="bg-dark text-white">
+                <th>ID</th>
+                <th>Descrizione</th>
+                <th>Anno</th>
+                <th>Materiale</th>
+                <th>Collezione</th>
+                <th>Luogo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(ElencoOpere is not null) 
+            {
+                @foreach (Opera op in ElencoOpere)
+                {
+                    <tr>
+                        <td><a class="text-decoration-none outline-3" href="dettaglio/@op.IDOpera">@op.IDOpera</a></td>
+                        <td>@op.Descrizione</td>
+                        <td>@op.Anno</td>
+                        <td>@op.IDMateriale</td>
+                        <td>@op.IDCollezione</td>
+                        <td>@op.IDLuogo</td>
+                    </tr>    
+                }
+            }
+        </tbody>
+    </table>
+</section>
+
+@code {
+    private Opera[]? ElencoOpere;
+    protected override async Task OnInitializedAsync()
+    {
+        ElencoOpere = await http.GetFromJsonAsync<Opera[]>("/api/opere");
+    }
+}

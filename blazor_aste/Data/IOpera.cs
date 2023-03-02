@@ -1,0 +1,3 @@
+interface IOpera {
+    Opera[]? GetElencoOpere();
+}

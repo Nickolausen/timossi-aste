@@ -1,0 +1,12 @@
+footer {
+    --credits-color: gainsboro;
+    margin-top: auto;
+    background-color: #AE1316; 
+}
+
+a, p, span {
+    text-decoration: none;
+    color: gainsboro;
+}
+
+footer a:hover { color: #EDEBE6 !important; text-decoration: none; }
