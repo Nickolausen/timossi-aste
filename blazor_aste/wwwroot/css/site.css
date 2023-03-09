@@ -1,5 +1,6 @@
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 @import url('https://fonts.googleapis.com/css?family=Inter');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 html, body {
     font-family: 'Inter', Helvetica, Arial, sans-serif;
@@ -8,6 +9,10 @@ html, body {
 
 h1:focus {
     outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Libre Baskerville', Helvetica, Arial, sans-serif;
 }
 
 a, .btn-link {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LNEXHSstw6qeIPOByRh56jObV775vqVo4Ijt/6BWwlA=",
+  "Hash": "Oi+NG3qRXacgzdXm9zaNKXSQK8/BlkKnYk6FXEeF2Ck=",
   "Source": "blazor_aste",
   "BasePath": "_content/blazor_aste",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "blazor_aste\\wwwroot",
       "Source": "blazor_aste",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_aste.styles.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_aste.styles.css",
       "SourceId": "blazor_aste",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "blazor_aste.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_aste.styles.css"
+      "OriginalItemSpec": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_aste.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_aste.bundle.scp.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_aste.bundle.scp.css",
       "SourceId": "blazor_aste",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "blazor_aste.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_aste.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_aste.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\css\\site.css",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\favicon.png",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\img1.jpg",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\img1.jpg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/img1.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\img1.jpg"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\img2.jpg",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\img2.jpg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/img2.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\img2.jpg"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\img3.jpg",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\img3.jpg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/img3.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\img3.jpg"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_001.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_001.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_001.webp",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_001.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_002.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_002.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_002.webp",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_002.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_003.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_003.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_003.webp",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_003.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_004.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_004.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_004.webp",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_004.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_005.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_005.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_005.webp",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_005.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_006.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_006.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_006.webp",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_006.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_007.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_007.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_007.webp",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_007.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_008.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_008.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_008.webp",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_008.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_009.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_009.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_009.webp",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_009.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_010.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_010.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_010.webp",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_010.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_011.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_011.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_011.webp",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\Immagini\\opera_011.webp"
     },
     {
-      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\Immagini\\opera_012.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_012.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_012.webp",
       "AssetKind": "All",

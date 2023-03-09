@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\blazor_aste.csproj",
+      "projectUniqueName": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\blazor_aste.csproj",
       "projectName": "blazor_aste",
-      "projectPath": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\blazor_aste.csproj",
+      "projectPath": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\blazor_aste.csproj",
       "packagesPath": "C:\\Users\\nicholas.magi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\blazor_aste\\obj\\",
+      "outputPath": "C:\\Users\\nicholas.magi\\Downloads\\TIMOSSI\\timossi-aste\\blazor_aste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

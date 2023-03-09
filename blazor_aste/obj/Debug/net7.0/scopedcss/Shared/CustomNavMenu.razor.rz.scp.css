@@ -1,8 +1,23 @@
-nav[b-ea14kcq6zf] { flex-shrink: 0 !important; background-color: #AE1316; }
+nav[b-ea14kcq6zf] {
+    --nav-bg: #AE1316;
+    flex-shrink: 0 !important; 
+    background-color: var(--nav-bg); 
+}
 .navbar .navbar-nav .nav-link[b-ea14kcq6zf] { color: #fff; }
 .navbar .navbar-nav .nav-link:hover[b-ea14kcq6zf] { color: #EDEBE6; }
 .navbar .navbar-nav .active > .nav-link[b-ea14kcq6zf] { color: #EDEBE6; }
 
+.navbar-toggler[b-ea14kcq6zf] {
+    border-color: rgb(192, 180, 180);
+}
+
+.navbar-toggler:focus[b-ea14kcq6zf] {
+    box-shadow: 0 0 0 #7f090b;
+}
+
+.navbar-toggler-icon[b-ea14kcq6zf] {
+    filter: invert(100%);
+}
 
 .btn[b-ea14kcq6zf], .btn:focus[b-ea14kcq6zf] {
     background-color: #7f090b;

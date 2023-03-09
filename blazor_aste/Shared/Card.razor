@@ -1,10 +1,31 @@
-<div class="card" style="width: 18rem;">
-    <img src=@ImgPath class="card-img-top" alt="...">
-    <div class="card-body">
-        <h5 class="card-title">@Titolo</h5>
-        <h6 class="card-subtitle mb-2 text-muted">@Luogo - @Anno</h6>
-        <p class="mt-4 card-text text-truncate">@Descrizione</p>
-        <a href="dettaglio/@ID">Leggi di più</a>
+
+<div class="d-md-none">
+    <div class="card border-1 d-flex justify-content-center" style="width: 18rem;">
+        <img src=@ImgPath class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Titolo</h5>
+            <h6 class="card-subtitle mb-2 text-muted">@Luogo - @Anno</h6>
+            <p class="mt-4 card-text text-truncate">@Descrizione</p>
+            <a class="text-decoration-none" href="dettaglio/@ID">Leggi di più</a>
+        </div>
+    </div>
+</div>
+
+<div class="d-none d-md-inline">
+    <div class="card mb-3" style="max-width: 540px;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src=@ImgPath class="img-fluid rounded-start" alt="...">
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">@Titolo</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">@Luogo - @Anno</h6>
+                    <p class="card-text">@Descrizione</p>
+                    <a class="text-decoration-none" href="dettaglio/@ID">Scopri di più</a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -24,7 +45,8 @@
     [Parameter]
     public int Anno { get; set; }
 
-    private string ImgPath {
+    private string ImgPath
+    {
         get => "Immagini/opera_" + new string('0', 3 - $"{ID}".Length) + ID + ".webp";
         set { }
     }
