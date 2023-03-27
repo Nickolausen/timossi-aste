@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\blazor_aste.props" />
+  <Import Project="../buildMultiTargeting/blazor_aste.props" />
 </Project>

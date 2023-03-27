@@ -1,58 +1,27 @@
 @page "/dettaglio/{ID:int}"
 @inject HttpClient http;
 
-<div class="container-fluid">
+<PageTitle>"Titolo opera"</PageTitle>
+<div class="container-fluid px-4 p-3">
     <div class="row">
-        <div class="col-12 col-lg-8">
+        <div class="col-12 col-lg-8 order-0 order-lg-2">
             <img src=@ImagePath/>
         </div>
         <div class="col-12 col-lg-4">
-            <table class="table">
-                <tbody>
-                    <tr>
-                        <td class="fw-bold">ID Opera: </td><td>@op?.IDOpera</td>
-                    </tr>
-                    <tr>
-                        <td class="fw-bold">Descrizione: </td><td>@op?.Descrizione</td>
-                    </tr>
-                    <tr>
-                        <td class="fw-bold">Anno: </td><td>@op?.Anno</td>
-                    </tr>
-                    <tr>
-                        <td class="fw-bold">ID Materiale: </td><td>@op?.IDMateriale</td>
-                    </tr>
-                    <tr>
-                        <td class="fw-bold">ID Collezione: </td><td>@op?.IDCollezione</td>
-                    </tr>
-                </tbody>
-            </table>
+            <span class="badge bg-danger my-3 mt-lg-5">#@ID</span>
+            <h1>Titolo dell'opera</h1>
+            <p class="text-muted mb-3">di Alberto Timossi, <span class="fst-italic">Collezione</span></p>
+            <p><i class="bi bi-pin-map"></i> Luogo</p>
+            <p><i class="bi bi-clock-history"></i> @op?.Anno</p>
+            <p>@op?.Descrizione</p>
         </div>
     </div>
 </div>
 
-@* <h2 class="d-inline">Dettaglio opera [@op?.IDOpera]</h2>
-<hr>
-<section class="d-flex justify-content-center">
-    <table class="table w-75">
-        <tbody>
-            <tr>
-                <td class="fw-bold">ID Opera: </td><td>@op?.IDOpera</td>
-            </tr>
-            <tr>
-                <td class="fw-bold">Descrizione: </td><td>@op?.Descrizione</td>
-            </tr>
-            <tr>
-                <td class="fw-bold">Anno: </td><td>@op?.Anno</td>
-            </tr>
-            <tr>
-                <td class="fw-bold">ID Materiale: </td><td>@op?.IDMateriale</td>
-            </tr>
-            <tr>
-                <td class="fw-bold">ID Collezione: </td><td>@op?.IDCollezione</td>
-            </tr>
-        </tbody>
-    </table>
-</section> *@
+<div class="container-fluid d-flex justify-content-center gap-2 mb-3">
+    <button class="btn fs-5" @onclick=Successivo><i class="bi bi-arrow-left"></i></button>
+    <button class="btn fs-5"><i class="bi bi-arrow-right"></i></button>
+</div>
 
 @code {
 
@@ -61,12 +30,26 @@
 
     private string? ImagePath { get; set; }
     private Opera? op;
+
+    private Opera[]? OpereSet;
     protected override async Task OnInitializedAsync()
     {
-        Opera[]? tmp = await http.GetFromJsonAsync<Opera[]?>("/api/opere/" + ID);
+        OpereSet = await http.GetFromJsonAsync<Opera[]?>("/api/opere/" + ID);
 
-        op = tmp[0];
+        op = OpereSet[0];
 
         ImagePath = "Immagini/opera_" + new string('0', 3 - $"{op.IDOpera}".Length) + op.IDOpera + ".webp";
+    }
+
+    private void Successivo()
+    {
+        var NextOpera = OpereSet
+            .ToList()
+            .Find(op => op.IDOpera == ID + 1);
+
+        if (NextOpera is not null)
+            ID += 1;
+
+        StateHasChanged();
     }
 }

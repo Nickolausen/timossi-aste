@@ -1,29 +1,29 @@
-nav[b-ea14kcq6zf] {
+nav[b-l2tvvy4iyw] {
     --nav-bg: #AE1316;
     flex-shrink: 0 !important; 
     background-color: var(--nav-bg); 
 }
-.navbar .navbar-nav .nav-link[b-ea14kcq6zf] { color: #fff; }
-.navbar .navbar-nav .nav-link:hover[b-ea14kcq6zf] { color: #EDEBE6; }
-.navbar .navbar-nav .active > .nav-link[b-ea14kcq6zf] { color: #EDEBE6; }
+.navbar .navbar-nav .nav-link[b-l2tvvy4iyw] { color: #fff; }
+.navbar .navbar-nav .nav-link:hover[b-l2tvvy4iyw] { color: #EDEBE6; }
+.navbar .navbar-nav .active > .nav-link[b-l2tvvy4iyw] { color: #EDEBE6; }
 
-.navbar-toggler[b-ea14kcq6zf] {
+.navbar-toggler[b-l2tvvy4iyw] {
     border-color: rgb(192, 180, 180);
 }
 
-.navbar-toggler:focus[b-ea14kcq6zf] {
+.navbar-toggler:focus[b-l2tvvy4iyw] {
     box-shadow: 0 0 0 #7f090b;
 }
 
-.navbar-toggler-icon[b-ea14kcq6zf] {
+.navbar-toggler-icon[b-l2tvvy4iyw] {
     filter: invert(100%);
 }
 
-.btn[b-ea14kcq6zf], .btn:focus[b-ea14kcq6zf] {
+.btn[b-l2tvvy4iyw], .btn:focus[b-l2tvvy4iyw] {
     background-color: #7f090b;
     border: 0 !important;
 }
 
-.btn:focus-visible[b-ea14kcq6zf], .btn:focus[b-ea14kcq6zf] {
+.btn:focus-visible[b-l2tvvy4iyw], .btn:focus[b-l2tvvy4iyw] {
     box-shadow: 0 0 0 0.25rem #893838;
 }

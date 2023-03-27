@@ -1,6 +1,26 @@
-img[b-p8im5dpbtg] {
-    height: 50%;
+img[b-j7bbq2ppgb] {
+    height: 30em;
     width: 100%;
 
-    object-fit: contain;
+    object-fit: scale-down;
+}
+
+.btn[b-j7bbq2ppgb] {
+    background-color: white;
+    color: #7f090b;
+    border-color: #7f090b !important;
+    border-width: 2.5px !important;
+    border-radius: 1;
+
+    width: 3.5em;
+    height: 2.5em;
+}
+
+.btn:focus[b-j7bbq2ppgb] {
+    background-color: #7f090b;
+    color: white;
+}
+
+.btn:focus-visible[b-j7bbq2ppgb], .btn:focus[b-j7bbq2ppgb] {
+    box-shadow: 0 0 0 0.25rem transparent;
 }

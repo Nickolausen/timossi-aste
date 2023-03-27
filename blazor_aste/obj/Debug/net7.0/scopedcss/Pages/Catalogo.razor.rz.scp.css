@@ -1,8 +1,8 @@
-h1[b-82c7kyd0u0] {
+h1[b-hlvvdn5quc] {
     letter-spacing: 5px;
 }
 
-.btn[b-82c7kyd0u0] {
+.btn[b-hlvvdn5quc] {
     background-color: white;
     color: #7f090b;
     border-color: #7f090b !important;
@@ -13,11 +13,11 @@ h1[b-82c7kyd0u0] {
     height: 3.5em;
 }
 
-.btn:focus[b-82c7kyd0u0] {
+.btn:focus[b-hlvvdn5quc] {
     background-color: #7f090b;
     color: white;
 }
 
-.btn:focus-visible[b-82c7kyd0u0], .btn:focus[b-82c7kyd0u0] {
+.btn:focus-visible[b-hlvvdn5quc], .btn:focus[b-hlvvdn5quc] {
     box-shadow: 0 0 0 0.25rem transparent;
 }
