@@ -1,0 +1,33 @@
+<div class="d-flex flex-column text-center">
+    <h3 class="display-6 text-muted">Nuovo sul sito?</h3>
+    <h2 class="display-1 mb-4">Registrati</h2>
+    <EditForm Model=@utente>
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <div class="form-floating mb-3">
+            <InputText @bind-Value="utente.Nome" type="text" class="form-control" id="floatingName" placeholder="name@example.com"/>
+            <label for="floatingName">Nome</label>
+        </div>
+        <div class="form-floating mb-3">
+            <InputText @bind-Value="utente.Cognome" type="email" class="form-control" id="floatingSurname" placeholder="name@example.com"/>
+            <label for="floatingSurname">Cognome</label>
+        </div>
+        <div class="form-floating mb-3">
+            <InputText @bind-Value="utente.Email" type="email" class="form-control" id="floatingEmail" placeholder="name@example.com"/>
+            <label for="floatingEmail">Email</label>
+        </div>
+        <div class="form-floating mb-3">
+            <InputText @bind-Value="utente.Password" type="password" class="form-control" id="floatingPassword" placeholder="Password"/>
+            <label for="floatingPassword">Password</label>
+        </div>
+        <div class="form-floating mb-3">
+            <InputText @bind-Value="utente.Telefono" type="tel" class="form-control" id="floatingCellular" placeholder="Password"/>
+            <label for="floatingCellular">Numero di telefono</label>
+        </div>
+
+        <FancyButton Text="Sign Up"></FancyButton>
+    </EditForm>
+</div>
+
+@code {
+    private User utente = new User();
+}

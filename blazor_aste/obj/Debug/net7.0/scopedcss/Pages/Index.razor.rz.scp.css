@@ -1,0 +1,27 @@
+h1[b-c9sry1q0u1] {
+    font-size: 5em;
+}
+
+h3[b-c9sry1q0u1] {
+    font-family: 'Inter';
+    font-size: 1.75em;
+}
+
+div.position-absolute[b-c9sry1q0u1] {
+    right: 20px;
+    top: 20px;
+}
+
+button[b-c9sry1q0u1] {
+    background: none;
+    border: 3px solid;
+    border-color: rgba(127, 9, 11, 1);
+    border-radius: 25px;
+    color: rgba(127, 9, 11, 1);
+}
+  
+button:hover[b-c9sry1q0u1] {
+    background: rgba(127, 9, 11, 1);
+    color: white;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}

@@ -1,0 +1,9 @@
+<button class="text-uppercase btn">@(BootstrapIcon is null ? "" : $@"<i class=""bi bi-{BootstrapIcon}"">") @Text</button>
+
+@code {
+    [Parameter]
+    public string Text { get; set; }
+
+    [Parameter]
+    public string BootstrapIcon { get; set; }
+}

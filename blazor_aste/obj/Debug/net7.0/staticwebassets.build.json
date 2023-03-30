@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1HXuZpiNfXx5DW2GT8b7+wBjYL1uExEBWPTvpVQV3uY=",
+  "Hash": "s46PHaO89fUj7fx6thZdD+rWG+ppyxlA+BJmVdZ6xxQ=",
   "Source": "blazor_aste",
   "BasePath": "_content/blazor_aste",
   "Mode": "Default",
@@ -525,6 +525,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Immagini/opera_012.webp"
+    },
+    {
+      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/sovana-regular.ttf",
+      "SourceId": "blazor_aste",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "BasePath": "_content/blazor_aste",
+      "RelativePath": "sovana-regular.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sovana-regular.ttf"
     }
   ]
 }

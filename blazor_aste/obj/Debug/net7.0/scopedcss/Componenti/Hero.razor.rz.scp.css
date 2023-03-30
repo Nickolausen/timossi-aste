@@ -1,36 +1,36 @@
-.wrapper[b-733tof70go] {
+.wrapper[b-129tei56hk] {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.carousel-inner[b-733tof70go] {
+.carousel-inner[b-129tei56hk] {
     max-height: 75vh;
 }
 
-.heading[b-733tof70go] {
+.heading[b-129tei56hk] {
     position: absolute;
     text-align: center;
     color: var(--txt-color);
     z-index: 10;
 }
 
-.heading > h1[b-733tof70go] {
+.heading > h1[b-129tei56hk] {
     font-size: 4rem;
 }
 
-.heading > h4[b-733tof70go] {
+.heading > h4[b-129tei56hk] {
     font-size: 1.5rem;
 }
 
-.carousel-item[b-733tof70go] {
+.carousel-item[b-129tei56hk] {
     max-height: inherit;
 }
 
-div.position-absolute[b-733tof70go] {
+div.position-absolute[b-129tei56hk] {
     z-index: 100 !important;
 }
 
-img[b-733tof70go] {
+img[b-129tei56hk] {
     filter: brightness(40%);
 }

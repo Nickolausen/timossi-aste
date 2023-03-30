@@ -1,0 +1,23 @@
+@page "/auth"
+<PageTitle>Autenticazione</PageTitle>
+
+<section class="d-flex justify-content-center flex-column p-5 m-3">
+    @if(ShouldShowSignUp)
+    {
+        <SignUpForm></SignUpForm>
+        <p class="text-center mt-3">Sei già registrato? <a class="fw-bolder text-decoration-none" @onclick=ShowSignUp>LOG IN</a></p>
+    }
+    else
+    {
+        <SignInForm></SignInForm>
+        <p class="text-center mt-3">Non sei ancora registrato? <a class="fw-bolder text-decoration-none" @onclick=ShowSignUp>SIGN UP</a></p>
+    }
+</section>
+
+@code {
+    public bool ShouldShowSignUp { get; set; } = false;
+
+    void ShowSignUp() {
+        ShouldShowSignUp = !ShouldShowSignUp;
+    }
+}

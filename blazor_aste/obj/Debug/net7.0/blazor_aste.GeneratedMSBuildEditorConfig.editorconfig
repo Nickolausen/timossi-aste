@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Componenti/AstaPreview.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50aS9Bc3RhUHJldmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Pages/Aste.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXN0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Pages/ChiSiamo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hpU2lhbW8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGF0dGkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/NoBandsLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05vQmFuZHNMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/SurveyPrompt.razor]
@@ -40,6 +48,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Componenti/Card.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50aS9DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-h0p5r9qe82
+
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Componenti/FancyButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50aS9GYW5jeUJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-s2xfhms23j
+
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Componenti/Hero.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50aS9IZXJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-129tei56hk
+
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Componenti/SignInForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50aS9TaWduSW5Gb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bom0n8dm1e
+
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Componenti/SignUpForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50aS9TaWduVXBGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-zofda241ko
+
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Pages/AuthForms.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aEZvcm1zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ll47t75tuh
+
 [/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Pages/Catalogo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0YWxvZ28ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hlvvdn5quc
@@ -48,9 +80,9 @@ build_metadata.AdditionalFiles.CssScope = b-hlvvdn5quc
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGV0dGFnbGlvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-j7bbq2ppgb
 
-[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/Card.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NhcmQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-o8wpmw6bob
+[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c9sry1q0u1
 
 [/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/CustomLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0N1c3RvbUxheW91dC5yYXpvcg==
@@ -63,10 +95,6 @@ build_metadata.AdditionalFiles.CssScope = b-l2tvvy4iyw
 [/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-jy06b3phwd
-
-[/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/Hero.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0hlcm8ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-733tof70go
 
 [/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=

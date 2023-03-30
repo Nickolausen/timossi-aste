@@ -117,6 +117,10 @@
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
+      "Id": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/sovana-regular.ttf",
+      "PackagePath": "staticwebassets/sovana-regular.ttf"
+    },
+    {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.blazor_aste.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

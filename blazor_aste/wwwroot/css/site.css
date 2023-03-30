@@ -2,6 +2,11 @@
 @import url('https://fonts.googleapis.com/css?family=Inter');
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
+@font-face {
+    font-family: "Sovana";
+    src: url('../sovana-regular.ttf');
+}
+
 html, body {
     font-family: 'Inter', Helvetica, Arial, sans-serif;
     height: 100vh;
@@ -12,7 +17,7 @@ h1:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Libre Baskerville', Helvetica, Arial, sans-serif;
+    font-family: 'Sovana', Helvetica, Arial, sans-serif;
 }
 
 a, .btn-link {

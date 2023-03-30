@@ -1,21 +1,21 @@
-:root[b-o8wpmw6bob] {
+:root[b-h0p5r9qe82] {
     --card-width: 300px;
 }
 
-img[b-o8wpmw6bob] {
+img[b-h0p5r9qe82] {
     width: var(--card-width);
     height: 300px;
     object-fit: cover;
 }
 
-.card-body[b-o8wpmw6bob] {
+.card-body[b-h0p5r9qe82] {
     width: var(--card-width);
 }
 
-h5[b-o8wpmw6bob], h6[b-o8wpmw6bob] {
+h5[b-h0p5r9qe82], h6[b-h0p5r9qe82] {
     font-family: 'Inter', sans-serif !important;
 }
 
-.card-body > a[b-o8wpmw6bob] {
+.card-body > a[b-h0p5r9qe82] {
     color: #AE1316 !important;
 }
