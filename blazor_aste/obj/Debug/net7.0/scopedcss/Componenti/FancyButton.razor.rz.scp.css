@@ -1,19 +1,21 @@
-.btn[b-s2xfhms23j] {
+.btn[b-3k0m4md3f5] {
     background-color: white;
     color: #7f090b;
     border-color: #7f090b !important;
     border-width: 2.5px !important;
     border-radius: 1;
+    padding-left: 6px;
+    padding-right: 6px;
 
-    width: 11em;
+    width: 10em;
     height: 3.5em;
 }
 
-.btn:focus[b-s2xfhms23j] {
+.btn:focus[b-3k0m4md3f5] {
     background-color: #7f090b;
     color: white;
 }
 
-.btn:focus-visible[b-s2xfhms23j], .btn:focus[b-s2xfhms23j] {
+.btn:focus-visible[b-3k0m4md3f5], .btn:focus[b-3k0m4md3f5] {
     box-shadow: 0 0 0 0.25rem transparent;
 }

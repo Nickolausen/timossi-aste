@@ -1,16 +1,26 @@
 <div class="card">
-  <div class="card-header">
-    Featured
-  </div>
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h4 class="card-title d-flex flex-row align-items-center gap-3">Titolo dell'opera
+      @if (IsOpen == 1)
+      {
+        <span class="bg-success rounded-circle pulse-green"></span>
+      }
+      else
+      {
+        <span class="bg-danger rounded-circle pulse-red"></span>
+      }
+    </h4>
+    <p class="card-text">
+      <span class="text-muted">Data scadenza: 03/04/2023</span><br><br>
+      <span><i class="bi bi-currency-exchange"></i> Base dell'asta: €10000</span><br>
+      <span><i class="bi bi-currency-exchange"></i> Ultima offerta: €35000</span><br>
+    </p>
+    <a><FancyButton Text="Dettaglio"></FancyButton></a>
   </div>
 </div>
 
 @code {
-    public int IsOpen { get; set; }
+    public int IsOpen { get; set; } = 1;
     public DateTime DataScadenza { get; set; }
     public int Base { get; set; }
     public int PrezzoCorrente { get; set; }

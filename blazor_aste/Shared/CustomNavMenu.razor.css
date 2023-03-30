@@ -7,7 +7,7 @@ nav {
     --nav-accent-clr: #AE1316;
     flex-shrink: 0 !important; 
     background-color: white;
-    border-bottom: 2.5px solid var(--nav-accent-clr); 
+    border-bottom: 3px solid var(--nav-accent-clr); 
 }
 
 .navbar-brand { font-family: 'Sovana';}
@@ -34,4 +34,18 @@ nav {
 
 .btn:focus-visible, .btn:focus {
     box-shadow: 0 0 0 0.25rem #893838;
+}
+
+button {
+    background: none;
+    border: 2px solid;
+    border-color: rgba(127, 9, 11, 1);
+    border-radius: 25px;
+    color: rgba(127, 9, 11, 1);
+}
+
+button:hover {
+    background: rgba(127, 9, 11, 1);
+    color: white;
+    transition: .5s;
 }

@@ -1,0 +1,32 @@
+span[b-hxvqgx9fak] {
+    height: 12px;
+    width: 12px;
+}
+
+.pulse-green[b-hxvqgx9fak] {
+    animation: pulse-animation-green-b-hxvqgx9fak 2s infinite alternate;
+}
+
+.pulse-red[b-hxvqgx9fak] {
+    animation: pulse-animation-red-b-hxvqgx9fak 2s infinite alternate;
+}
+
+@keyframes pulse-animation-green-b-hxvqgx9fak {
+    0% {
+        box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+    }
+
+    100% {
+        box-shadow: 0 0 0 5px rgba(25, 135, 84, 0.5);
+    }
+}
+
+@keyframes pulse-animation-red-b-hxvqgx9fak {
+    0% {
+        box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+    }
+
+    100% {
+        box-shadow: 0 0 0 6px rgba(220, 53, 69, 0.5);
+    }
+}

@@ -1,11 +1,11 @@
-img[b-j7bbq2ppgb] {
+img[b-p8im5dpbtg] {
     height: 30em;
     width: 100%;
 
     object-fit: scale-down;
 }
 
-.btn[b-j7bbq2ppgb] {
+.btn[b-p8im5dpbtg] {
     background-color: white;
     color: #7f090b;
     border-color: #7f090b !important;
@@ -16,11 +16,11 @@ img[b-j7bbq2ppgb] {
     height: 2.5em;
 }
 
-.btn:focus[b-j7bbq2ppgb] {
+.btn:focus[b-p8im5dpbtg] {
     background-color: #7f090b;
     color: white;
 }
 
-.btn:focus-visible[b-j7bbq2ppgb], .btn:focus[b-j7bbq2ppgb] {
+.btn:focus-visible[b-p8im5dpbtg], .btn:focus[b-p8im5dpbtg] {
     box-shadow: 0 0 0 0.25rem transparent;
 }

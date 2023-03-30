@@ -9,7 +9,12 @@
 
 html, body {
     font-family: 'Inter', Helvetica, Arial, sans-serif;
-    height: 100vh;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
 }
 
 h1:focus {

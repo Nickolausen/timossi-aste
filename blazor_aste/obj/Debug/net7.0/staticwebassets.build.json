@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s46PHaO89fUj7fx6thZdD+rWG+ppyxlA+BJmVdZ6xxQ=",
+  "Hash": "r8tCZ58gyNIWFOXlBB3U16kKHyrLOTHmD/l9iunRSxM=",
   "Source": "blazor_aste",
   "BasePath": "_content/blazor_aste",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "blazor_aste/wwwroot",
+      "Name": "blazor_aste\\wwwroot",
       "Source": "blazor_aste",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/obj/Debug/net7.0/scopedcss/bundle/blazor_aste.styles.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_aste.styles.css",
       "SourceId": "blazor_aste",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "blazor_aste.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/obj/Debug/net7.0/scopedcss/bundle/blazor_aste.styles.css"
+      "OriginalItemSpec": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\bundle\\blazor_aste.styles.css"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/obj/Debug/net7.0/scopedcss/projectbundle/blazor_aste.bundle.scp.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_aste.bundle.scp.css",
       "SourceId": "blazor_aste",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "blazor_aste.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/obj/Debug/net7.0/scopedcss/projectbundle/blazor_aste.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\blazor_aste.bundle.scp.css"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/open-iconic/README.md",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\css\\site.css",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/favicon.png",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\favicon.png",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
+      "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/img1.jpg",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\img1.jpg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/img1.jpg",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/img1.jpg"
+      "OriginalItemSpec": "wwwroot\\Immagini\\img1.jpg"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/img2.jpg",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\img2.jpg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/img2.jpg",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/img2.jpg"
+      "OriginalItemSpec": "wwwroot\\Immagini\\img2.jpg"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/img3.jpg",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\img3.jpg",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/img3.jpg",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/img3.jpg"
+      "OriginalItemSpec": "wwwroot\\Immagini\\img3.jpg"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_001.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_001.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_001.webp",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_001.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_001.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_002.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_002.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_002.webp",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_002.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_002.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_003.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_003.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_003.webp",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_003.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_003.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_004.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_004.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_004.webp",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_004.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_004.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_005.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_005.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_005.webp",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_005.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_005.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_006.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_006.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_006.webp",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_006.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_006.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_007.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_007.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_007.webp",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_007.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_007.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_008.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_008.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_008.webp",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_008.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_008.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_009.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_009.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_009.webp",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_009.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_009.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_010.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_010.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_010.webp",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_010.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_010.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_011.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_011.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_011.webp",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_011.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_011.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/Immagini/opera_012.webp",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\Immagini\\opera_012.webp",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "Immagini/opera_012.webp",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Immagini/opera_012.webp"
+      "OriginalItemSpec": "wwwroot\\Immagini\\opera_012.webp"
     },
     {
-      "Identity": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/sovana-regular.ttf",
+      "Identity": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\sovana-regular.ttf",
       "SourceId": "blazor_aste",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/nickolausen/Desktop/Scuola/5F/Informatica/timossi-aste/blazor_aste/wwwroot/",
+      "ContentRoot": "C:\\Users\\nicholas.magi\\Desktop\\timossi-aste\\blazor_aste\\wwwroot\\",
       "BasePath": "_content/blazor_aste",
       "RelativePath": "sovana-regular.ttf",
       "AssetKind": "All",
@@ -541,7 +541,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/sovana-regular.ttf"
+      "OriginalItemSpec": "wwwroot\\sovana-regular.ttf"
     }
   ]
 }

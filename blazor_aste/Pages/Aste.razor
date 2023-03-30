@@ -1,8 +1,15 @@
 @page "/aste"
 
-<section class="p-3">
-    <h1>CATALOGO ASTE ONLINE</h1>
-    <AstaPreview></AstaPreview>
-    <AstaPreview></AstaPreview>
-    <AstaPreview></AstaPreview>
+<section class="p-3 pt-4">
+    <h1 class="text-center text-uppercase display-1 text-break">Aste online</h1>
+    <div class="container-fluid mt-4">
+        <div class="row g-4">
+            @for(int i = 0; i < 10; i++)
+            {
+                <div class="col-12 col-lg-6">
+                    <AstaPreview></AstaPreview>
+                </div>
+            }
+        </div>
+    </div>
 </section>

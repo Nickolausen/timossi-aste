@@ -1,36 +1,36 @@
-.wrapper[b-129tei56hk] {
+.wrapper[b-z9whpoifdt] {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.carousel-inner[b-129tei56hk] {
+.carousel-inner[b-z9whpoifdt] {
     max-height: 75vh;
 }
 
-.heading[b-129tei56hk] {
+.heading[b-z9whpoifdt] {
     position: absolute;
     text-align: center;
     color: var(--txt-color);
     z-index: 10;
 }
 
-.heading > h1[b-129tei56hk] {
+.heading > h1[b-z9whpoifdt] {
     font-size: 4rem;
 }
 
-.heading > h4[b-129tei56hk] {
+.heading > h4[b-z9whpoifdt] {
     font-size: 1.5rem;
 }
 
-.carousel-item[b-129tei56hk] {
+.carousel-item[b-z9whpoifdt] {
     max-height: inherit;
 }
 
-div.position-absolute[b-129tei56hk] {
+div.position-absolute[b-z9whpoifdt] {
     z-index: 100 !important;
 }
 
-img[b-129tei56hk] {
+img[b-z9whpoifdt] {
     filter: brightness(40%);
 }

@@ -1,0 +1,32 @@
+span {
+    height: 12px;
+    width: 12px;
+}
+
+.pulse-green {
+    animation: pulse-animation-green 2s infinite alternate;
+}
+
+.pulse-red {
+    animation: pulse-animation-red 2s infinite alternate;
+}
+
+@keyframes pulse-animation-green {
+    0% {
+        box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+    }
+
+    100% {
+        box-shadow: 0 0 0 5px rgba(25, 135, 84, 0.5);
+    }
+}
+
+@keyframes pulse-animation-red {
+    0% {
+        box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
+    }
+
+    100% {
+        box-shadow: 0 0 0 6px rgba(220, 53, 69, 0.5);
+    }
+}

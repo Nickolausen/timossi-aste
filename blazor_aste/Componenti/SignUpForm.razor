@@ -1,25 +1,39 @@
-<div class="d-flex flex-column text-center">
+<div class="d-flex flex-column align-items-center text-center">
     <h3 class="display-6 text-muted">Nuovo sul sito?</h3>
     <h2 class="display-1 mb-4">Registrati</h2>
-    <EditForm Model=@utente>
+    <EditForm Model=@utente class="w-50">
         <DataAnnotationsValidator></DataAnnotationsValidator>
         <div class="form-floating mb-3">
             <InputText @bind-Value="utente.Nome" type="text" class="form-control" id="floatingName" placeholder="name@example.com"/>
             <label for="floatingName">Nome</label>
         </div>
+
         <div class="form-floating mb-3">
             <InputText @bind-Value="utente.Cognome" type="email" class="form-control" id="floatingSurname" placeholder="name@example.com"/>
             <label for="floatingSurname">Cognome</label>
         </div>
+
         <div class="form-floating mb-3">
             <InputText @bind-Value="utente.Email" type="email" class="form-control" id="floatingEmail" placeholder="name@example.com"/>
             <label for="floatingEmail">Email</label>
         </div>
+
         <div class="form-floating mb-3">
             <InputText @bind-Value="utente.Password" type="password" class="form-control" id="floatingPassword" placeholder="Password"/>
             <label for="floatingPassword">Password</label>
         </div>
+
         <div class="form-floating mb-3">
+            <InputText @bind-Value="RepeatedPassword" type="password" class="form-control" id="floatingConfirmPassword" placeholder="Password"/>
+            <label for="floatingConfirmPassword">Conferma Password</label>
+        </div>
+        
+        <div class="form-floating mb-3">
+            <InputDate @bind-Value="utente.DataDiNascita" class="form-control" id="floatingBirthdate" placeholder="Data di nascita"/>
+            <label for="floatingBirthdate">Data di Nascita</label>
+        </div>
+
+        <div class="form-floating mb-5">
             <InputText @bind-Value="utente.Telefono" type="tel" class="form-control" id="floatingCellular" placeholder="Password"/>
             <label for="floatingCellular">Numero di telefono</label>
         </div>
@@ -29,5 +43,6 @@
 </div>
 
 @code {
-    private User utente = new User();
+    public string RepeatedPassword { get; set; }
+    private User utente = new User() { DataDiNascita = DateTime.Now };
 }

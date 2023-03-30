@@ -1,13 +1,13 @@
-<div class="d-flex flex-column text-center">
+<div class="d-flex flex-column align-items-center text-center">
     <h3 class="display-6 text-muted">Già registrato?</h3>
     <h2 class="display-1 mb-3">Accedi</h2>
-    <EditForm Model=@utente>
+    <EditForm Model=@utente class="w-50">
         <DataAnnotationsValidator></DataAnnotationsValidator>
         <div class="form-floating mb-3">
             <InputText @bind-Value="utente.Email" type="email" class="form-control" id="floatingInput" placeholder="name@example.com"/>
             <label for="floatingInput">Email</label>
         </div>
-        <div class="form-floating mb-3">
+        <div class="form-floating mb-5">
             <InputText @bind-Value="utente.Password" type="password" class="form-control" id="floatingPassword" placeholder="Password"/>
             <label for="floatingPassword">Password</label>
         </div>

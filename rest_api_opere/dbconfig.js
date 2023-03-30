@@ -1,6 +1,6 @@
 const config = {
     user: "sa",
-    password: "Burbero2023",
+    password: "burbero2023",
     server: "localhost",
     database: "DB_Timossi",
     options: {
