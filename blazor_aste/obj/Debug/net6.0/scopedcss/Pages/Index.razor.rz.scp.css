@@ -1,0 +1,27 @@
+h1[b-rtjhvqpkii] {
+    font-size: 5em;
+}
+
+h3[b-rtjhvqpkii] {
+    font-family: 'Inter';
+    font-size: 1.75em;
+}
+
+div.position-absolute[b-rtjhvqpkii] {
+    right: 20px;
+    top: 20px;
+}
+
+button[b-rtjhvqpkii] {
+    background: none;
+    border: 2px solid;
+    border-color: rgba(127, 9, 11, 1);
+    border-radius: 25px;
+    color: rgba(127, 9, 11, 1);
+}
+
+button:hover[b-rtjhvqpkii] {
+    background: rgba(127, 9, 11, 1);
+    color: white;
+    transition: .5s;
+}

@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "Sovana";
+    src: url('../sovana-regular.ttf');
+}
+
+nav[b-ea14kcq6zf] {
+    --nav-accent-clr: #AE1316;
+    flex-shrink: 0 !important; 
+    background-color: white;
+    border-bottom: 3px solid var(--nav-accent-clr); 
+}
+
+.navbar-brand[b-ea14kcq6zf] { font-family: 'Sovana';}
+.navbar .navbar-nav .nav-link[b-ea14kcq6zf], .navbar-brand[b-ea14kcq6zf] { color: var(--nav-accent-clr); }
+.navbar .navbar-nav .nav-link:hover[b-ea14kcq6zf] { color: var(--nav-accent-clr); }
+.navbar .navbar-nav .active > .nav-link[b-ea14kcq6zf] { color: var(--nav-accent-clr); }
+
+.navbar-toggler[b-ea14kcq6zf] {
+    background-color: #7f090b;
+}
+
+.navbar-toggler:focus[b-ea14kcq6zf] {
+    box-shadow: 0 0 0 #7f090b;
+}
+
+.navbar-toggler-icon[b-ea14kcq6zf] {
+    filter: invert(100%);
+}
+
+.btn[b-ea14kcq6zf], .btn:focus[b-ea14kcq6zf] {
+    background-color: #7f090b;
+    border: 0 !important;
+}
+
+.btn:focus-visible[b-ea14kcq6zf], .btn:focus[b-ea14kcq6zf] {
+    box-shadow: 0 0 0 0.25rem #893838;
+}
+
+button[b-ea14kcq6zf] {
+    background: none;
+    border: 2px solid;
+    border-color: rgba(127, 9, 11, 1);
+    border-radius: 25px;
+    color: rgba(127, 9, 11, 1);
+}
+
+button:hover[b-ea14kcq6zf] {
+    background: rgba(127, 9, 11, 1);
+    color: white;
+    transition: .5s;
+}

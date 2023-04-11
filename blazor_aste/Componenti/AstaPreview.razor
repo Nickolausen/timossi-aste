@@ -1,7 +1,7 @@
-<div class="card">
-  <div class="card-body">
+<div class="card d-flex flex-row">
+  <div class="card-body p-4">
     <h4 class="card-title d-flex flex-row align-items-center gap-3">Titolo dell'opera
-      @if (IsOpen == 1)
+      @if (IsOpen == 0)
       {
         <span class="bg-success rounded-circle pulse-green"></span>
       }
@@ -11,18 +11,22 @@
       }
     </h4>
     <p class="card-text">
-      <span class="text-muted">Data scadenza: 03/04/2023</span><br><br>
+      <span class="text-muted">&gt Data scadenza: 03/04/2023</span><br><br>
       <span><i class="bi bi-currency-exchange"></i> Base dell'asta: €10000</span><br>
       <span><i class="bi bi-currency-exchange"></i> Ultima offerta: €35000</span><br>
     </p>
-    <a><FancyButton Text="Dettaglio"></FancyButton></a>
+    <a>
+      <FancyButton Text="Dettaglio"></FancyButton>
+    </a>
   </div>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F1b%2Fdc%2Ff2%2F1bdcf25c234d3041cbabe32475b51bdf.jpg&f=1&nofb=1&ipt=bb1f569e63b79c741abb22dab56f2e07fcfc206214a0c950095977a39a8921ff&ipo=images" alt="">
 </div>
 
+
 @code {
-    public int IsOpen { get; set; } = 1;
-    public DateTime DataScadenza { get; set; }
-    public int Base { get; set; }
-    public int PrezzoCorrente { get; set; }
-    public string UsernameUltimaOfferta { get; set; }
+  public int IsOpen { get; set; } = 1;
+  public DateTime DataScadenza { get; set; }
+  public int Base { get; set; }
+  public int PrezzoCorrente { get; set; }
+  public string UsernameUltimaOfferta { get; set; }
 }

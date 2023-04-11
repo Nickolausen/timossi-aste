@@ -7,6 +7,11 @@
     src: url('../sovana-regular.ttf');
 }
 
+*::selection {
+    background-color: #b32121;
+    color: white
+}
+
 html, body {
     font-family: 'Inter', Helvetica, Arial, sans-serif;
     height: 100%;

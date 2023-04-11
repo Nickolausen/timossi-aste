@@ -1,22 +1,22 @@
-span {
+span[b-hxvqgx9fak] {
     height: 12px;
     width: 12px;
 }
 
-img {
+img[b-hxvqgx9fak] {
     height: 300px;
     object-fit: contain;
 }
 
-.pulse-green {
-    animation: pulse-animation-green 2s infinite alternate;
+.pulse-green[b-hxvqgx9fak] {
+    animation: pulse-animation-green-b-hxvqgx9fak 2s infinite alternate;
 }
 
-.pulse-red {
-    animation: pulse-animation-red 2s infinite alternate;
+.pulse-red[b-hxvqgx9fak] {
+    animation: pulse-animation-red-b-hxvqgx9fak 2s infinite alternate;
 }
 
-@keyframes pulse-animation-green {
+@keyframes pulse-animation-green-b-hxvqgx9fak {
     0% {
         box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
     }
@@ -26,7 +26,7 @@ img {
     }
 }
 
-@keyframes pulse-animation-red {
+@keyframes pulse-animation-red-b-hxvqgx9fak {
     0% {
         box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);
     }
