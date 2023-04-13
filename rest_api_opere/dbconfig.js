@@ -6,7 +6,7 @@ const config = {
     options: {
         trustedconnection: true,
         trustServerCertificate: true,
-        instancename: "SQLEXPRESS"
+        instancename: "MSSQLSERVER"
     },
 }
 

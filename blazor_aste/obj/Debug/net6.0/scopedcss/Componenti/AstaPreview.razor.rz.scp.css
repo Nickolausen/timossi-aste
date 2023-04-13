@@ -4,7 +4,8 @@ span[b-hxvqgx9fak] {
 }
 
 img[b-hxvqgx9fak] {
-    height: 300px;
+    max-height: 400px;
+    min-height: 400px;
     object-fit: contain;
 }
 

@@ -1,0 +1,56 @@
+@page "/aste/{ID:int}"
+
+<PageTitle>Asta per "Titolo opera"</PageTitle>
+<div class="container-fluid px-4 p-3 pt-5">
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <img class="img-opera" 
+            src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2FdgHTJJCO181epvR8s4k10coIPss%3D%2F1500x1026%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fthe-hay-wain-92840936e2a84cd18ba5170c1b986b5a.jpg&f=1&nofb=1&ipt=950283a179f60a7b74ef9081328047bfdcce7a6bf684a10f2cff4e21db60d908&ipo=images" alt="">
+        </div>
+        <div class="col-12 col-lg-6">
+            <span class="badge bg-danger mb-3">#1</span>
+            <h1>Titolo dell'opera</h1>
+            <p class="text-muted mb-3">di Alberto Timossi, <span class="fst-italic">Collezione</span></p>
+            <p><i class="bi bi-pin-map"></i> Luogo</p>
+            <p><i class="bi bi-clock-history"></i> 2022</p>
+            <p>Lorem Ipse Dixit Lorem Ipse Dixit Lorem Ipse Dixit Lorem Ipse Dixit Lorem Ipse Dixit Lorem Ipse Dixit Lorem Ipse Dixit Lorem Ipse Dixit</p>
+            <span class="text-muted">Appartenente a: <i class="bi bi-person-circle"></i> Andrew Tate</span><br><br>
+        </div>
+    </div>
+</div>
+<hr class="mx-5">
+<section class="d-flex flex-column justify-content-center mt-3 mb-5">
+    <div class="d-flex flex-column justify-content-center align-items-center"></div>
+    <img src="./Immagini/auction-hammer-coloured.png">
+    <EditForm Model="@auctionModel">
+        <div class="text-center">
+            <h2>Fai la tua offerta!</h2>
+            <InputNumber @bind-Value="auctionModel.Offerta" class="form-control w-25 text-center fs-4 mx-auto mb-4"></InputNumber>
+            <FancyButton Text="Invia"></FancyButton>
+        </div>
+    </EditForm>
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-12 col-lg-5 text-center text-lg-end">
+                <span class="fs-5"><i class="bi bi-currency-exchange"></i> <strong>Base dell'asta:</strong> €10000</span><br>
+            </div>
+            <div class="my-3 my-lg-0 col-lg-2"></div>
+            <div class="col-12 col-lg-5 text-center text-lg-start">
+                <span class="fs-5"><i class="bi bi-currency-exchange"></i> <strong>Ultima offerta:</strong> €35000</span><br>
+            </div>
+        </div>
+    </div>
+</section>
+
+@code {
+    [Parameter]
+    public int ID { get; set; }
+    public string ImagePath { get; set; }
+
+    public Asta auctionModel { get; set; } = new Asta();
+    protected override Task OnInitializedAsync()
+    {
+        return base.OnInitializedAsync();
+    }
+}
+
